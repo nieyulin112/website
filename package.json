@@ -1,0 +1,15 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "this is nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/nieyulin112/website.git",
+  "author": "nieyulin <bldz@.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}
