@@ -24,4 +24,6 @@ http.createServer((req, res) => {
 	res.setHeader('Content-Type', 'text/html');
 	res.end(homePage)
 }).listen(3000);
+// listen,表示监听的端口
+
 console.log('服务启动了')
